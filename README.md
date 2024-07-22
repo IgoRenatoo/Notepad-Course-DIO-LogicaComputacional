@@ -1,5 +1,9 @@
 # <u>📚 Cronograma de Estudo</u>
 
+> Status: <span style="color: green;">Concluído ✅</span>
+>
+> Certificação: <a style="color: green;" href="./Certificado.jpg">Click aqui!</a>
+
 ## 1. Introdução a Lógica
 - **1.1 Introdução**
   - *Resumo:* Apresentação dos conceitos básicos de lógica de programação.
